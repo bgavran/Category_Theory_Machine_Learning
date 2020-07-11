@@ -17,3 +17,4 @@ Eventually I will also add a short description of each link.
 * [From Open Learners to Open Games](https://arxiv.org/abs/1902.08666)
 * [Reverse Derivative Ascent](https://cgi.cse.unsw.edu.au/~eptcs/Accepted/ACT2020/Papers/31/paper/main202007010401.pdf)
 * [Dioptics](http://events.cs.bham.ac.uk/syco/strings3-syco5/papers/dalrymple.pdf)
+* [Differentiable Causal Computations via Delayed Trace](https://arxiv.org/abs/1903.01093)
