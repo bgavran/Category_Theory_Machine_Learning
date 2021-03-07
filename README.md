@@ -19,7 +19,7 @@ Let me know what's missing! (preferably by creating a pull request)
 
 ### Bayesian/Causal inference
 * [Causal Theories: A Categorical Perspective on Bayesian Networks](https://arxiv.org/abs/1301.6201)
-* [A categorical foundation for Bayesian probability](https://arxiv.org/abs/1205.1488)
+* [A Categorical Foundation for Bayesian probability](https://arxiv.org/abs/1205.1488)
 * [Bayesian Open Games](https://arxiv.org/abs/1910.03656)
 * [Causal Inference by String Diagram Surgery](https://arxiv.org/abs/1811.08338)
 
