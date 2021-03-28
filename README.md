@@ -10,6 +10,7 @@ Let me know what's missing! (preferably by creating a pull request)
 * [Reverse Derivative Ascent](https://cgi.cse.unsw.edu.au/~eptcs/Accepted/ACT2020/Papers/31/paper/main202007010401.pdf)
 * [Dioptics](http://events.cs.bham.ac.uk/syco/strings3-syco5/papers/dalrymple.pdf)
 * [Learning Functors using Gradient Descent](http://www.cs.ox.ac.uk/ACT2019/preproceedings/Bruno%20Gavranovic.pdf) (longer version [here](https://arxiv.org/abs/1907.08292))
+* [Compositionality for Recursive Neural Networks](https://arxiv.org/abs/1901.10723)
 
 ### Differential programming / automatic differentiation
 * [Differentiable Causal Computations via Delayed Trace](https://arxiv.org/abs/1903.01093)
