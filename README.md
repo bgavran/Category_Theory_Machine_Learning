@@ -12,17 +12,24 @@ Let me know what's missing! (preferably by creating a pull request)
 * [Learning Functors using Gradient Descent](http://www.cs.ox.ac.uk/ACT2019/preproceedings/Bruno%20Gavranovic.pdf) (longer version [here](https://arxiv.org/abs/1907.08292))
 * [Compositionality for Recursive Neural Networks](https://arxiv.org/abs/1901.10723)
 
-### Differential programming / automatic differentiation
+### Differentiable programming / automatic differentiation
 * [Differentiable Causal Computations via Delayed Trace](https://arxiv.org/abs/1903.01093)
 * [Simple Essence of Automatic Differentiation](https://arxiv.org/abs/1804.00746)
 * [Reverse Derivative Categories](https://arxiv.org/abs/1910.07065)
 * [Towards formalizing and extending differential programming using tangent categories](http://www.cs.ox.ac.uk/ACT2019/preproceedings/Jonathan%20Gallagher,%20Geoff%20Cruttwell%20and%20Ben%20MacAdam.pdf)
 
+### Probability theory
+* [Markov categories](https://arxiv.org/abs/1908.07021)
+* [A Convenient Category for Higher-Order Probability Theory](https://arxiv.org/abs/1701.02547)
+
 ### Bayesian/Causal inference
 * [Causal Theories: A Categorical Perspective on Bayesian Networks](https://arxiv.org/abs/1301.6201)
+* [Bayesian machine learning via category theory](https://arxiv.org/abs/1312.1445)
 * [A Categorical Foundation for Bayesian probability](https://arxiv.org/abs/1205.1488)
 * [Bayesian Open Games](https://arxiv.org/abs/1910.03656)
 * [Causal Inference by String Diagram Surgery](https://arxiv.org/abs/1811.08338)
+* [Disintegration and Bayesian Inversion via String Diagrams](https://arxiv.org/abs/1709.00322)
+* [Categorical Stochastic Processes and Likelihood](https://arxiv.org/abs/2005.04735)
 
 ### Topological Data Analysis
 * [On Characterizing the Capacity of Neural Networks using Algebraic Topology](https://arxiv.org/abs/1802.04443)
