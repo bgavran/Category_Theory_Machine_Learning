@@ -30,6 +30,7 @@ Let me know what's missing! (preferably by creating a pull request)
 * [Causal Inference by String Diagram Surgery](https://arxiv.org/abs/1811.08338)
 * [Disintegration and Bayesian Inversion via String Diagrams](https://arxiv.org/abs/1709.00322)
 * [Categorical Stochastic Processes and Likelihood](https://arxiv.org/abs/2005.04735)
+* [Bayesian Updates Compose Optically](https://arxiv.org/abs/2006.01631)
 
 ### Topological Data Analysis
 * [On Characterizing the Capacity of Neural Networks using Algebraic Topology](https://arxiv.org/abs/1802.04443)
