@@ -20,6 +20,7 @@ Let me know what's missing! (preferably by creating a pull request)
 
 ### Probability theory
 * [Markov categories](https://arxiv.org/abs/1908.07021)
+* [Infinite products and zero-one laws in categorical probability](https://arxiv.org/abs/1912.02769)
 * [A Convenient Category for Higher-Order Probability Theory](https://arxiv.org/abs/1701.02547)
 
 ### Bayesian/Causal inference
