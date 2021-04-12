@@ -30,6 +30,7 @@ Let me know what's missing! (preferably by creating a pull request)
 
 ### Blog posts
 * [Neural Networks, Types, and Functional Programming](https://colah.github.io/posts/2015-09-NN-Types-FP/)
+* [Towards Categorical Foundations of Learning](https://www.brunogavranovic.com/posts/2021-03-03-Towards-Categorical-Foundations-Of-Neural-Networks.html)
 
 ### Misc
 * [Generalized Convolution and Efficient Language Recognition](https://arxiv.org/abs/1903.10677)
