@@ -22,6 +22,8 @@ Let me know what's missing! (preferably by creating a pull request)
 * [Markov categories](https://arxiv.org/abs/1908.07021)
 * [Infinite products and zero-one laws in categorical probability](https://arxiv.org/abs/1912.02769)
 * [A Convenient Category for Higher-Order Probability Theory](https://arxiv.org/abs/1701.02547)
+* [Bimonoidal Structure of Probability Monads](https://arxiv.org/abs/1804.03527)
+* [Representable Markov Categories and Comparison of Statistical Experiments in Categorical Probability](https://arxiv.org/abs/2010.07416)
 
 ### Bayesian/Causal inference
 * [Causal Theories: A Categorical Perspective on Bayesian Networks](https://arxiv.org/abs/1301.6201)
@@ -33,6 +35,7 @@ Let me know what's missing! (preferably by creating a pull request)
 * [Categorical Stochastic Processes and Likelihood](https://arxiv.org/abs/2005.04735)
 * [Bayesian Updates Compose Optically](https://arxiv.org/abs/2006.01631)
 * [Automatic Backward Filtering Forward Guiding for Markov processes and graphical models](https://arxiv.org/abs/2010.03509)
+* [A Channel-Based Perspective on Conjugate Priors](https://arxiv.org/abs/1707.00269)
 
 ### Topological Data Analysis
 * [On Characterizing the Capacity of Neural Networks using Algebraic Topology](https://arxiv.org/abs/1802.04443)
