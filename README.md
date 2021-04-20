@@ -31,6 +31,10 @@ Let me know what's missing! (preferably by creating a pull request)
 ### Blog posts
 * [Neural Networks, Types, and Functional Programming](https://colah.github.io/posts/2015-09-NN-Types-FP/)
 
+### Automata Learning
+* [Automata Learning: A Categorical Perspective](http://www.calf-project.org/publications/prakash.pdf)
+* [A Categorical Framework for Learning Generalised Tree Automata](https://arxiv.org/abs/2001.05786)
+
 ### Misc
 * [Generalized Convolution and Efficient Language Recognition](https://arxiv.org/abs/1903.10677)
 * [Learning as Change Propagation with Delta Lenses](http://www.cs.ox.ac.uk/ACT2019/preproceedings/Zinovy%20Diskin.pdf)
