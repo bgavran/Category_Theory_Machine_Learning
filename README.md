@@ -3,6 +3,9 @@
 Many of papers are in multiple fields and some of these fields overlap.
 Let me know what's missing! (preferably by creating a pull request)
 
+### Survey papers
+* [Category Theory in Machine Learning](https://arxiv.org/abs/2106.07032)
+
 ### Deep Learning
 * [Categorical Foundations of Gradient-Based Learning](https://arxiv.org/abs/2103.01931)
 * [Backprop as Functor](https://arxiv.org/abs/1711.10455)
@@ -57,3 +60,4 @@ Let me know what's missing! (preferably by creating a pull request)
 * [A Constructive, Type-Theoretic Approach to Regression via Global Optimisation](https://arxiv.org/abs/2006.12868)
 * [Natural Graph Networks](https://arxiv.org/abs/2007.08349)
 * [Characterizing the invariances of learning algorithms using category theory](https://arxiv.org/abs/1905.02072)
+* [Functorial Manifold Learning](https://arxiv.org/abs/2011.07435)
