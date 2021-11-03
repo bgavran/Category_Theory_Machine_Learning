@@ -44,7 +44,7 @@ Let me know what's missing! (preferably by creating a pull request)
 * [On Characterizing the Capacity of Neural Networks using Algebraic Topology](https://arxiv.org/abs/1802.04443)
 * [Persistent-Homology-based Machine Learning and its Applications - A Survey](https://arxiv.org/abs/1811.00252)
 
-### Statistical Learning
+### Metric space magnitude
 * [Approximating the convex hull via metric space magnitude](https://arxiv.org/abs/1908.02692)
 * [Practical applications of metric space magnitude and weighting vectors](https://arxiv.org/abs/2006.14063)
 * [Weighting vectors for machine learning: numerical harmonic analysis applied to boundary detection](https://arxiv.org/abs/2106.00827)
