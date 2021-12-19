@@ -14,6 +14,7 @@ Let me know what's missing! (preferably by creating a pull request)
 * [Dioptics](http://events.cs.bham.ac.uk/syco/strings3-syco5/papers/dalrymple.pdf)
 * [Learning Functors using Gradient Descent](http://www.cs.ox.ac.uk/ACT2019/preproceedings/Bruno%20Gavranovic.pdf) (longer version [here](https://arxiv.org/abs/1907.08292))
 * [Compositionality for Recursive Neural Networks](https://arxiv.org/abs/1901.10723)
+* [Deep neural networks as nested dynamical systems](https://arxiv.org/abs/2111.01297)
 
 ### Differentiable programming / automatic differentiation
 * [Differentiable Causal Computations via Delayed Trace](https://arxiv.org/abs/1903.01093)
@@ -29,6 +30,7 @@ Let me know what's missing! (preferably by creating a pull request)
 * [Representable Markov Categories and Comparison of Statistical Experiments in Categorical Probability](https://arxiv.org/abs/2010.07416)
 
 ### Bayesian/Causal inference
+* [A category theory framework for Bayesian Learning](https://arxiv.org/abs/2111.14293)
 * [Causal Theories: A Categorical Perspective on Bayesian Networks](https://arxiv.org/abs/1301.6201)
 * [Bayesian machine learning via category theory](https://arxiv.org/abs/1312.1445)
 * [A Categorical Foundation for Bayesian probability](https://arxiv.org/abs/1205.1488)
