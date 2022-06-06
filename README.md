@@ -62,6 +62,7 @@ Let me know what's missing! (preferably by creating a pull request)
 * [A Categorical Framework for Learning Generalised Tree Automata](https://arxiv.org/abs/2001.05786)
 
 ### Misc
+* [Graph Neural Networks are Dynamic Programmers](https://arxiv.org/abs/2203.15544)
 * [Generalized Convolution and Efficient Language Recognition](https://arxiv.org/abs/1903.10677)
 * [Learning as Change Propagation with Delta Lenses](http://www.cs.ox.ac.uk/ACT2019/preproceedings/Zinovy%20Diskin.pdf)
 * [From Open Learners to Open Games](https://arxiv.org/abs/1902.08666)
