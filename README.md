@@ -15,6 +15,7 @@ Let me know what's missing! (preferably by creating a pull request)
 * [Learning Functors using Gradient Descent](http://www.cs.ox.ac.uk/ACT2019/preproceedings/Bruno%20Gavranovic.pdf) (longer version [here](https://arxiv.org/abs/1907.08292))
 * [Compositionality for Recursive Neural Networks](https://arxiv.org/abs/1901.10723)
 * [Deep neural networks as nested dynamical systems](https://arxiv.org/abs/2111.01297)
+* [Neural network layers as parametric spans](https://arxiv.org/abs/2208.00809)
 
 ### Differentiable programming / automatic differentiation
 * [Differentiable Causal Computations via Delayed Trace](https://arxiv.org/abs/1903.01093)
