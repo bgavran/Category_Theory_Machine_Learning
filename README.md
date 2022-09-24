@@ -1,4 +1,4 @@
-# Category Theoretic Approaches to Machine Learning
+# Category Theory ∪ Machine Learning
 
 Many of papers are in multiple fields and some of these fields overlap.
 Let me know what's missing! (preferably by creating a pull request)
