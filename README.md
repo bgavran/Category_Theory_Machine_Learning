@@ -1,7 +1,12 @@
 # Category Theory ∪ Machine Learning
 
-Many of papers are in multiple fields and some of these fields overlap.
-Let me know what's missing! (preferably by creating a pull request)
+Category Theory has been finding increasing applications in machine learning.
+This repository aims to list all of the relevant papers, grouped by fields.
+
+<p align="center"><img width="100%" src="ct_union_ml.png" /></p>
+
+There might be papers missing, and some papers are in multiple fields.
+Feel free to contribute to this list - preferably by creating a pull request.
 
 ### Survey papers
 * [Category Theory in Machine Learning](https://arxiv.org/abs/2106.07032)
@@ -23,6 +28,7 @@ Let me know what's missing! (preferably by creating a pull request)
 * [Reverse Derivative Categories](https://arxiv.org/abs/1910.07065)
 * [Towards formalizing and extending differential programming using tangent categories](http://www.cs.ox.ac.uk/ACT2019/preproceedings/Jonathan%20Gallagher,%20Geoff%20Cruttwell%20and%20Ben%20MacAdam.pdf)
 * [Correctness of Automatic Differentiation via Diffeologies and Categorical Gluing](https://arxiv.org/abs/2001.02209)
+* [Space-time tradeoffs of lenses and optics via higher category theory](https://arxiv.org/abs/2209.09351)
 
 ### Probability theory
 * [Markov categories](https://arxiv.org/abs/1908.07021)
