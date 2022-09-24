@@ -22,6 +22,7 @@ Let me know what's missing! (preferably by creating a pull request)
 * [Simple Essence of Automatic Differentiation](https://arxiv.org/abs/1804.00746)
 * [Reverse Derivative Categories](https://arxiv.org/abs/1910.07065)
 * [Towards formalizing and extending differential programming using tangent categories](http://www.cs.ox.ac.uk/ACT2019/preproceedings/Jonathan%20Gallagher,%20Geoff%20Cruttwell%20and%20Ben%20MacAdam.pdf)
+* [Correctness of Automatic Differentiation via Diffeologies and Categorical Gluing](https://arxiv.org/abs/2001.02209)
 
 ### Probability theory
 * [Markov categories](https://arxiv.org/abs/1908.07021)
@@ -65,7 +66,7 @@ Let me know what's missing! (preferably by creating a pull request)
 ### Misc
 * [Graph Neural Networks are Dynamic Programmers](https://arxiv.org/abs/2203.15544)
 * [Generalized Convolution and Efficient Language Recognition](https://arxiv.org/abs/1903.10677)
-* [Learning as Change Propagation with Delta Lenses](http://www.cs.ox.ac.uk/ACT2019/preproceedings/Zinovy%20Diskin.pdf)
+* [General supervised learning as change propagation with delta lenses](https://arxiv.org/abs/1911.12904)
 * [From Open Learners to Open Games](https://arxiv.org/abs/1902.08666)
 * [Learners Languages](https://arxiv.org/abs/2103.01189)
 * [A Constructive, Type-Theoretic Approach to Regression via Global Optimisation](https://arxiv.org/abs/2006.12868)
