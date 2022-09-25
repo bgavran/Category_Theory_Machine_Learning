@@ -1,9 +1,9 @@
-# Category Theory ∪ Machine Learning
+# Category Theory ∩ Machine Learning
 
 Category Theory has been finding increasing applications in machine learning.
 This repository aims to list all of the relevant papers, grouped by fields.
 
-<p align="center"><img width="100%" src="ct_union_ml.png" /></p>
+<p align="center"><img width="100%" src="ct_intersection_ml.png" /></p>
 
 There might be papers missing, and some papers are in multiple fields.
 Feel free to contribute to this list - preferably by creating a pull request.
