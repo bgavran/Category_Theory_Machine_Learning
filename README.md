@@ -21,6 +21,7 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [Compositionality for Recursive Neural Networks](https://arxiv.org/abs/1901.10723)
 * [Deep neural networks as nested dynamical systems](https://arxiv.org/abs/2111.01297)
 * [Neural network layers as parametric spans](https://arxiv.org/abs/2208.00809)
+* [Categories of Differentiable Polynomial Circuits for Machine Learning](https://arxiv.org/abs/2203.06430)
 
 ### Differentiable programming / automatic differentiation
 * [Differentiable Causal Computations via Delayed Trace](https://arxiv.org/abs/1903.01093)
@@ -36,6 +37,14 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [A Convenient Category for Higher-Order Probability Theory](https://arxiv.org/abs/1701.02547)
 * [Bimonoidal Structure of Probability Monads](https://arxiv.org/abs/1804.03527)
 * [Representable Markov Categories and Comparison of Statistical Experiments in Categorical Probability](https://arxiv.org/abs/2010.07416)
+* [De Finneti's construction as a categorical limit](https://arxiv.org/abs/2003.01964)
+* [A Probability Monad as the Colimit of Spaces of Finite Samples](https://arxiv.org/abs/1712.05363)
+* [A Probabilistic Dependent Type System based on Non-Deterministic Beta Reduction](https://arxiv.org/abs/1602.06420)
+* [Probability, valuations, hyperspace: Three monads on Top and the support as a morphism](https://arxiv.org/abs/1910.03752)
+* [Categorical Probability Theory](https://arxiv.org/abs/1406.6030)
+* [Information structures and their cohomology](https://arxiv.org/abs/1709.07807)
+* [Computable Stochastic Processes](https://arxiv.org/abs/1409.4667)
+* [Compositional Semantics for Probabilistic Programs with Exact Conditioning](https://arxiv.org/abs/2101.11351)
 
 ### Bayesian/Causal inference
 * [A category theory framework for Bayesian Learning](https://arxiv.org/abs/2111.14293)
@@ -49,6 +58,10 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [Bayesian Updates Compose Optically](https://arxiv.org/abs/2006.01631)
 * [Automatic Backward Filtering Forward Guiding for Markov processes and graphical models](https://arxiv.org/abs/2010.03509)
 * [A Channel-Based Perspective on Conjugate Priors](https://arxiv.org/abs/1707.00269)
+* [A Type Theory for Probabilistic and Bayesian Reasoning](https://arxiv.org/abs/1511.09230)
+* [Denotational validation of higher-order Bayesian inference](https://arxiv.org/abs/1711.03219)
+* [The Geometry of Bayesian Programming](https://arxiv.org/abs/1904.07425)
+* [Relational Reasoning for Markov Chains in a Probabilistic Guarded Lambda Calculus](https://arxiv.org/abs/1802.09787)
 
 ### Topological Data Analysis
 * [On Characterizing the Capacity of Neural Networks using Algebraic Topology](https://arxiv.org/abs/1802.04443)
@@ -84,3 +97,4 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [Sheaf Neural Networks with Connection Laplacians](https://arxiv.org/abs/2206.08702)
 * [Diegetic representation of feedback in open games](https://arxiv.org/abs/2206.12338)
 * [Assessing the Unitary RNN as an End-to-End Compositional Model of Syntax](https://arxiv.org/abs/2208.05719)
+* [Classifying Clustering Schemes](https://arxiv.org/abs/1011.5270)
