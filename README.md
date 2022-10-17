@@ -94,6 +94,7 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [Characterizing the invariances of learning algorithms using category theory](https://arxiv.org/abs/1905.02072)
 * [Functorial Manifold Learning](https://arxiv.org/abs/2011.07435)
 * [Sheaf Neural Networks](https://arxiv.org/abs/2012.06333)
+* [Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs](https://arxiv.org/abs/2202.04579)
 * [Sheaf Neural Networks with Connection Laplacians](https://arxiv.org/abs/2206.08702)
 * [Diegetic representation of feedback in open games](https://arxiv.org/abs/2206.12338)
 * [Assessing the Unitary RNN as an End-to-End Compositional Model of Syntax](https://arxiv.org/abs/2208.05719)
