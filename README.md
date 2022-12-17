@@ -121,3 +121,4 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [Diegetic representation of feedback in open games](https://arxiv.org/abs/2206.12338)
 * [Assessing the Unitary RNN as an End-to-End Compositional Model of Syntax](https://arxiv.org/abs/2208.05719)
 * [Classifying Clustering Schemes](https://arxiv.org/abs/1011.5270)
+* [Category Theory for Quantum Natural Language Processing](https://arxiv.org/abs/2212.06615)
