@@ -38,12 +38,14 @@ Feel free to contribute to this list - preferably by creating a pull request.
 ---
 
 ### Differentiable programming / automatic differentiation
+* [Functorial String Diagrams for Reverse-Mode Automatic Differentiation](https://arxiv.org/abs/2107.13433)
 * [Differentiable Causal Computations via Delayed Trace](https://arxiv.org/abs/1903.01093)
 * [Simple Essence of Automatic Differentiation](https://arxiv.org/abs/1804.00746)
 * [Reverse Derivative Categories](https://arxiv.org/abs/1910.07065)
 * [Towards formalizing and extending differential programming using tangent categories](http://www.cs.ox.ac.uk/ACT2019/preproceedings/Jonathan%20Gallagher,%20Geoff%20Cruttwell%20and%20Ben%20MacAdam.pdf)
 * [Correctness of Automatic Differentiation via Diffeologies and Categorical Gluing](https://arxiv.org/abs/2001.02209)
 * [Denotationally Correct, Purely Functional, Efficient Reverse-mode Automatic Differentiation](https://arxiv.org/abs/2212.09801)
+* [Higher Order Automatic Differentiation of Higher Order Functions](https://arxiv.org/abs/2101.06757)
 * [Space-time tradeoffs of lenses and optics via higher category theory](https://arxiv.org/abs/2209.09351)
 
 ---
