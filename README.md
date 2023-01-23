@@ -52,6 +52,7 @@ Feel free to contribute to this list - preferably by creating a pull request.
 
 ### Probability theory
 * [Markov categories](https://arxiv.org/abs/1908.07021)
+* [Markov Categories and Entropy](https://arxiv.org/abs/2212.11719)
 * [Infinite products and zero-one laws in categorical probability](https://arxiv.org/abs/1912.02769)
 * [A Convenient Category for Higher-Order Probability Theory](https://arxiv.org/abs/1701.02547)
 * [Bimonoidal Structure of Probability Monads](https://arxiv.org/abs/1804.03527)
