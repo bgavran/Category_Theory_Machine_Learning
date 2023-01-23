@@ -33,7 +33,7 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [Sheaf Neural Networks with Connection Laplacians](https://arxiv.org/abs/2206.08702)
 * [Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs](https://arxiv.org/abs/2202.04579)
 * [Graph Convolutional Neural Networks as Parametric CoKleisli morphisms](https://arxiv.org/abs/2212.00542)
-* [Learnable Commutative Monoids for Graph Neural Networks](https://openreview.net/pdf?id=WtFobB28VDey)
+* [Learnable Commutative Monoids for Graph Neural Networks](https://arxiv.org/abs/2212.08541)
 
 ---
 
