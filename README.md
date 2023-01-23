@@ -105,6 +105,9 @@ Feel free to contribute to this list - preferably by creating a pull request.
 ### Blog posts
 * [Neural Networks, Types, and Functional Programming](https://colah.github.io/posts/2015-09-NN-Types-FP/)
 * [Towards Categorical Foundations of Learning](https://www.brunogavranovic.com/posts/2021-03-03-Towards-Categorical-Foundations-Of-Neural-Networks.html)
+* [Graph Convolutional Neural Networks as Parametric CoKleisli morphisms](https://www.brunogavranovic.com/posts/2022-12-05-graph_neural_networks_as_parametric_cokleisli_morphisms.html)
+* [Optics vs Lenses, Operationally](https://www.brunogavranovic.com/posts/2022-02-10-optics-vs-lenses-operationally.html)
+* [Meta-learning and Monads](https://www.brunogavranovic.com/posts/2021-10-13-meta-learning-and-monads.html)
 
 ---
 
