@@ -129,3 +129,4 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [Assessing the Unitary RNN as an End-to-End Compositional Model of Syntax](https://arxiv.org/abs/2208.05719)
 * [Classifying Clustering Schemes](https://arxiv.org/abs/1011.5270)
 * [Category Theory for Quantum Natural Language Processing](https://arxiv.org/abs/2212.06615)
+* [Categorical Hopfield Networks](https://arxiv.org/abs/2201.02756)
