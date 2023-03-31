@@ -69,6 +69,7 @@ Feel free to contribute to this list - preferably by creating a pull request.
 ---
 
 ### Bayesian/Causal inference
+* [Dependent Bayesian Lenses: Categories of Bidirectional Markov Kernels with Canonical Bayesian Inversion](https://arxiv.org/abs/2209.14728)
 * [A category theory framework for Bayesian Learning](https://arxiv.org/abs/2111.14293)
 * [Causal Theories: A Categorical Perspective on Bayesian Networks](https://arxiv.org/abs/1301.6201)
 * [Bayesian machine learning via category theory](https://arxiv.org/abs/1312.1445)
@@ -79,6 +80,7 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [Categorical Stochastic Processes and Likelihood](https://arxiv.org/abs/2005.04735)
 * [Bayesian Updates Compose Optically](https://arxiv.org/abs/2006.01631)
 * [Automatic Backward Filtering Forward Guiding for Markov processes and graphical models](https://arxiv.org/abs/2010.03509)
+* [Compositionality in algorithms for smoothing](https://arxiv.org/abs/2303.13865)
 * [A Channel-Based Perspective on Conjugate Priors](https://arxiv.org/abs/1707.00269)
 * [A Type Theory for Probabilistic and Bayesian Reasoning](https://arxiv.org/abs/1511.09230)
 * [Denotational validation of higher-order Bayesian inference](https://arxiv.org/abs/1711.03219)
