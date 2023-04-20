@@ -103,6 +103,7 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [Practical applications of metric space magnitude and weighting vectors](https://arxiv.org/abs/2006.14063)
 * [Weighting vectors for machine learning: numerical harmonic analysis applied to boundary detection](https://arxiv.org/abs/2106.00827)
 * [The magnitude vector of images](https://arxiv.org/abs/2110.15188)
+* [Magnitude of arithmetic scalar and matrix categories](https://arxiv.org/abs/2304.08334)
 
 ---
 
