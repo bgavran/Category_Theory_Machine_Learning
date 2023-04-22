@@ -36,6 +36,7 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs](https://arxiv.org/abs/2202.04579)
 * [Graph Convolutional Neural Networks as Parametric CoKleisli morphisms](https://arxiv.org/abs/2212.00542)
 * [Learnable Commutative Monoids for Graph Neural Networks](https://arxiv.org/abs/2212.08541)
+* [Sheaf Neural Networks for Graph-based Recommender Systems](https://arxiv.org/abs/2304.09097)
 
 ---
 
