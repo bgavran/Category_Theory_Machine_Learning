@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: If you use this repository in your research, please cite it
+title: Category Theory ∩ Machine Learning
+abstract: This repository provides a comprehensive list of papers at the intersection of category theory and machine learning, grouped by fields.
+authors:
+  - family-names: Gavranović
+    given-names: Bruno
+    orcid: https://orcid.org/0000-0002-6069-5727
+version: 1.0.0
+date-released: 2020-07-09
+
+repository-code: https://github.com/bgavran/Category_Theory_Machine_Learning
+
+keywords:
+  - Category Theory
+  - Machine Learning
+  - Deep Learning
+  - Graph Neural Networks
+  - Differentiable Programming
+  - Probability Theory
+  - Bayesian/Causal Inference
+  - Topological Data Analysis
+  - Metric Space Magnitude
+  - Automata Learning
+
+
