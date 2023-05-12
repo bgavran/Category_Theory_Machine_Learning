@@ -36,6 +36,7 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs](https://arxiv.org/abs/2202.04579)
 * [Graph Convolutional Neural Networks as Parametric CoKleisli morphisms](https://arxiv.org/abs/2212.00542)
 * [Learnable Commutative Monoids for Graph Neural Networks](https://arxiv.org/abs/2212.08541)
+* [Sheaf Neural Networks for Graph-based Recommender Systems](https://arxiv.org/abs/2304.09097)
 
 ---
 
@@ -103,6 +104,7 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [Practical applications of metric space magnitude and weighting vectors](https://arxiv.org/abs/2006.14063)
 * [Weighting vectors for machine learning: numerical harmonic analysis applied to boundary detection](https://arxiv.org/abs/2106.00827)
 * [The magnitude vector of images](https://arxiv.org/abs/2110.15188)
+* [Magnitude of arithmetic scalar and matrix categories](https://arxiv.org/abs/2304.08334)
 
 ---
 
@@ -134,3 +136,5 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [Classifying Clustering Schemes](https://arxiv.org/abs/1011.5270)
 * [Category Theory for Quantum Natural Language Processing](https://arxiv.org/abs/2212.06615)
 * [Categorical Hopfield Networks](https://arxiv.org/abs/2201.02756)
+* [Categorification of Group Equivariant Neural Networks](https://arxiv.org/abs/2304.14144)
+* [A Category-theoretical Meta-analysis of Definitions of Disentanglement](https://arxiv.org/abs/2305.06886)
