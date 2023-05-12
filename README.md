@@ -137,3 +137,4 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [Category Theory for Quantum Natural Language Processing](https://arxiv.org/abs/2212.06615)
 * [Categorical Hopfield Networks](https://arxiv.org/abs/2201.02756)
 * [Categorification of Group Equivariant Neural Networks](https://arxiv.org/abs/2304.14144)
+* [A Category-theoretical Meta-analysis of Definitions of Disentanglement](https://arxiv.org/abs/2305.06886)
