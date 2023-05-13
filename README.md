@@ -72,6 +72,7 @@ Feel free to contribute to this list - preferably by creating a pull request.
 ---
 
 ### Bayesian/Causal inference
+* [The Compositional Structure of Bayesian Inference](https://arxiv.org/abs/2305.06112)
 * [Dependent Bayesian Lenses: Categories of Bidirectional Markov Kernels with Canonical Bayesian Inversion](https://arxiv.org/abs/2209.14728)
 * [A category theory framework for Bayesian Learning](https://arxiv.org/abs/2111.14293)
 * [Causal Theories: A Categorical Perspective on Bayesian Networks](https://arxiv.org/abs/1301.6201)
