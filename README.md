@@ -37,6 +37,7 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [Graph Convolutional Neural Networks as Parametric CoKleisli morphisms](https://arxiv.org/abs/2212.00542)
 * [Learnable Commutative Monoids for Graph Neural Networks](https://arxiv.org/abs/2212.08541)
 * [Sheaf Neural Networks for Graph-based Recommender Systems](https://arxiv.org/abs/2304.09097)
+* [Asynchronous Algorithmic Alignment with Cocycles](https://arxiv.org/abs/2306.15632)
 
 ---
 
