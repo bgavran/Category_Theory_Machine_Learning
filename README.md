@@ -38,6 +38,7 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [Learnable Commutative Monoids for Graph Neural Networks](https://arxiv.org/abs/2212.08541)
 * [Sheaf Neural Networks for Graph-based Recommender Systems](https://arxiv.org/abs/2304.09097)
 * [Asynchronous Algorithmic Alignment with Cocycles](https://arxiv.org/abs/2306.15632)
+* [Topologically Attributed Graphs for Shape Discrimination](https://arxiv.org/abs/2306.17805)
 
 ---
 
@@ -51,6 +52,8 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [Denotationally Correct, Purely Functional, Efficient Reverse-mode Automatic Differentiation](https://arxiv.org/abs/2212.09801)
 * [Higher Order Automatic Differentiation of Higher Order Functions](https://arxiv.org/abs/2101.06757)
 * [Space-time tradeoffs of lenses and optics via higher category theory](https://arxiv.org/abs/2209.09351)
+* [https://arxiv.org/abs/2307.02447](Using Rewrite Strategies for Efficient Functional Automatic
+Differentiation)
 
 ---
 
@@ -139,4 +142,5 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [Category Theory for Quantum Natural Language Processing](https://arxiv.org/abs/2212.06615)
 * [Categorical Hopfield Networks](https://arxiv.org/abs/2201.02756)
 * [Categorification of Group Equivariant Neural Networks](https://arxiv.org/abs/2304.14144)
+* [Equivariant Single View Pose Prediction Via Induced and Restricted Representations](https://arxiv.org/abs/2307.03704)
 * [A Category-theoretical Meta-analysis of Definitions of Disentanglement](https://arxiv.org/abs/2305.06886)
