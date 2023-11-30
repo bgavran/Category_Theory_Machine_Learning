@@ -110,6 +110,7 @@ Differentiation)
 * [Weighting vectors for machine learning: numerical harmonic analysis applied to boundary detection](https://arxiv.org/abs/2106.00827)
 * [The magnitude vector of images](https://arxiv.org/abs/2110.15188)
 * [Magnitude of arithmetic scalar and matrix categories](https://arxiv.org/abs/2304.08334)
+* [Metric Space Magnitude for Evaluating Unsupervised Representation Learning](https://arxiv.org/abs/2311.16054)
 
 ---
 
