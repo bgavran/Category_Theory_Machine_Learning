@@ -52,8 +52,8 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [Denotationally Correct, Purely Functional, Efficient Reverse-mode Automatic Differentiation](https://arxiv.org/abs/2212.09801)
 * [Higher Order Automatic Differentiation of Higher Order Functions](https://arxiv.org/abs/2101.06757)
 * [Space-time tradeoffs of lenses and optics via higher category theory](https://arxiv.org/abs/2209.09351)
-* [https://arxiv.org/abs/2307.02447](Using Rewrite Strategies for Efficient Functional Automatic
-Differentiation)
+* [Using Rewrite Strategies for Efficient Functional Automatic
+Differentiation](https://arxiv.org/abs/2307.02447)
 
 ---
 
