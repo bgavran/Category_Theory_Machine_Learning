@@ -31,6 +31,7 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [Graph Neural Networks are Dynamic Programmers](https://arxiv.org/abs/2203.15544)
 * [Natural Graph Networks](https://arxiv.org/abs/2007.08349)
 * [Local Permutation Equivariance For Graph Neural Networks](https://arxiv.org/abs/2111.11840)
+* [Sheaf Representation Learnin](https://www.proquest.com/openview/5ab4860c57313d5f1a02fbe90a505a7f/1?pq-origsite=gscholar&cbl=18750&diss=y)
 * [Sheaf Neural Networks](https://arxiv.org/abs/2012.06333)
 * [Sheaf Neural Networks with Connection Laplacians](https://arxiv.org/abs/2206.08702)
 * [Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs](https://arxiv.org/abs/2202.04579)
