@@ -13,6 +13,10 @@ Feel free to contribute to this list - preferably by creating a pull request.
 ### Survey papers
 * [Category Theory in Machine Learning](https://arxiv.org/abs/2106.07032)
 
+### Theses
+
+* [Robust Diagrams for Deep Learning Architectures: Applications and Theory](https://www.vtabbott.io/content/files/2023/11/Robust-Diagrams-for-Deep-Learning-Architectures.pdf)
+
 ---
 
 ### Deep Learning
