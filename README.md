@@ -155,4 +155,3 @@ Differentiation](https://arxiv.org/abs/2307.02447)
 * [Transport of Algebraic Structure to Latent Embeddings](https://brendon-anderson.github.io/files/publications/pfrommer2024transport.pdf)
 * [Diffusion of Information on Networked Lattices by Gossip](https://arxiv.org/pdf/2204.00167.pdf)
 * [Cellular Sheaves of Lattices and the Tarski Laplacian](https://hansriess.com/files/tarski-laplacian.pdf)
-* 
