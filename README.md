@@ -21,6 +21,7 @@ Feel free to contribute to this list - preferably by creating a pull request.
 
 ### Deep Learning
 * [Categorical Foundations of Gradient-Based Learning](https://arxiv.org/abs/2103.01931)
+* [Categorical Deep Learning: An Algebraic Theory of Architectures](https://arxiv.org/abs/2402.15332)
 * [Backprop as Functor](https://arxiv.org/abs/1711.10455)
 * [Lenses and Learners](https://arxiv.org/abs/1903.03671)
 * [Reverse Derivative Ascent](https://arxiv.org/abs/2101.10488)
