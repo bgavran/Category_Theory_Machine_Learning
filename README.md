@@ -41,6 +41,7 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [Sheaf Neural Networks](https://arxiv.org/abs/2012.06333)
 * [Sheaf Neural Networks with Connection Laplacians](https://arxiv.org/abs/2206.08702)
 * [Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs](https://arxiv.org/abs/2202.04579)
+* [Nonlinear Sheaf Diffusion in Graph Neural Networks](https://arxiv.org/abs/2403.00337)
 * [Graph Convolutional Neural Networks as Parametric CoKleisli morphisms](https://arxiv.org/abs/2212.00542)
 * [Learnable Commutative Monoids for Graph Neural Networks](https://arxiv.org/abs/2212.08541)
 * [Sheaf Neural Networks for Graph-based Recommender Systems](https://arxiv.org/abs/2304.09097)
