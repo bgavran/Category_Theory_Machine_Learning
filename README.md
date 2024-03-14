@@ -15,6 +15,7 @@ Feel free to contribute to this list - preferably by creating a pull request.
 
 ### Theses
 
+* [Fundamental Components of Deep Learning: A category-theoretic approach](https://www.brunogavranovic.com/assets/FundamentalComponentsOfDeepLearning.pdf)
 * [Robust Diagrams for Deep Learning Architectures: Applications and Theory](https://www.vtabbott.io/content/files/2023/11/Robust-Diagrams-for-Deep-Learning-Architectures.pdf)
 
 ---
