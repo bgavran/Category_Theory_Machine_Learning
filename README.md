@@ -33,6 +33,7 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [Deep neural networks as nested dynamical systems](https://arxiv.org/abs/2111.01297)
 * [Neural network layers as parametric spans](https://arxiv.org/abs/2208.00809)
 * [Categories of Differentiable Polynomial Circuits for Machine Learning](https://arxiv.org/abs/2203.06430)
+* [The Topos of Transformer Networks](https://arxiv.org/abs/2403.18415)
 
 #### Graph Neural Networks
 * [Graph Neural Networks are Dynamic Programmers](https://arxiv.org/abs/2203.15544)
