@@ -23,7 +23,8 @@ Feel free to contribute to this list - preferably by creating a pull request.
 
 ### Deep Learning
 * [Categorical Foundations of Gradient-Based Learning](https://arxiv.org/abs/2103.01931)
-* [Categorical Deep Learning: An Algebraic Theory of Architectures](https://arxiv.org/abs/2402.15332)
+* [Position: Categorical Deep Learning is an Algebraic Theory of All Architectures](https://arxiv.org/abs/2402.15332)
+* [Position: Topological Deep Learning is the New Frontier for Relational Learning](https://arxiv.org/abs/2402.08871)
 * [Backprop as Functor](https://arxiv.org/abs/1711.10455)
 * [Lenses and Learners](https://arxiv.org/abs/1903.03671)
 * [Reverse Derivative Ascent](https://arxiv.org/abs/2101.10488)
@@ -36,6 +37,8 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [The Topos of Transformer Networks](https://arxiv.org/abs/2403.18415)
 * [Learners are almost Free Compact Closed](https://oxford24.github.io/assets/act-papers/39_learners_are_almost_free_compa.pdf)
 * [Equivariant stochastic neural networks in Markov categories](https://oxford24.github.io/assets/act-papers/52_equivariant_stochastic_neural_.pdf)
+* [Stochastic Neural Network Symmetrisation in Markov Categories](https://arxiv.org/abs/2406.11814)
+* [Going Beyond Neural Network Feature Similarity: The Network Feature Complexity and Its Interpretation Using Category Theory](https://arxiv.org/abs/2310.06756)
 
 #### Graph Neural Networks
 * [Graph Neural Networks are Dynamic Programmers](https://arxiv.org/abs/2203.15544)
