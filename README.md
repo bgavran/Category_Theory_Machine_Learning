@@ -18,7 +18,8 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [Fundamental Components of Deep Learning: A category-theoretic approach](https://arxiv.org/abs/2403.13001)
 * [Robust Diagrams for Deep Learning Architectures: Applications and Theory](https://www.vtabbott.io/content/files/2023/11/Robust-Diagrams-for-Deep-Learning-Architectures.pdf)
 * [Category-Theoretic Datastructures and Algorithms for Learning Polynomial Circuits](https://eprints.soton.ac.uk/483757/1/paul_wilson_thesis_acrobat_fixup.pdf)
-
+* [Category Theory for Quantum Natural Language Processing](https://arxiv.org/abs/2212.06615)
+  
 ---
 
 ### Deep Learning
@@ -156,7 +157,6 @@ Differentiation](https://arxiv.org/abs/2307.02447)
 * [Diegetic representation of feedback in open games](https://arxiv.org/abs/2206.12338)
 * [Assessing the Unitary RNN as an End-to-End Compositional Model of Syntax](https://arxiv.org/abs/2208.05719)
 * [Classifying Clustering Schemes](https://arxiv.org/abs/1011.5270)
-* [Category Theory for Quantum Natural Language Processing](https://arxiv.org/abs/2212.06615)
 * [Categorical Hopfield Networks](https://arxiv.org/abs/2201.02756)
 * [Categorification of Group Equivariant Neural Networks](https://arxiv.org/abs/2304.14144)
 * [Equivariant Single View Pose Prediction Via Induced and Restricted Representations](https://arxiv.org/abs/2307.03704)
