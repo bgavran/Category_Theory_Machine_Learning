@@ -111,6 +111,7 @@ Differentiation](https://arxiv.org/abs/2307.02447)
 * [Denotational validation of higher-order Bayesian inference](https://arxiv.org/abs/1711.03219)
 * [The Geometry of Bayesian Programming](https://arxiv.org/abs/1904.07425)
 * [Relational Reasoning for Markov Chains in a Probabilistic Guarded Lambda Calculus](https://arxiv.org/abs/1802.09787)
+* [String Diagrams with Factorized Densities](https://arxiv.org/abs/2305.02506)
 
 ---
 
