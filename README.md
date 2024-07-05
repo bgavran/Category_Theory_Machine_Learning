@@ -89,6 +89,7 @@ Differentiation](https://arxiv.org/abs/2307.02447)
 * [Information structures and their cohomology](https://arxiv.org/abs/1709.07807)
 * [Computable Stochastic Processes](https://arxiv.org/abs/1409.4667)
 * [Compositional Semantics for Probabilistic Programs with Exact Conditioning](https://arxiv.org/abs/2101.11351)
+* [String Diagrams with Factorized Densities](https://arxiv.org/abs/2305.02506)
 
 ---
 
@@ -111,7 +112,6 @@ Differentiation](https://arxiv.org/abs/2307.02447)
 * [Denotational validation of higher-order Bayesian inference](https://arxiv.org/abs/1711.03219)
 * [The Geometry of Bayesian Programming](https://arxiv.org/abs/1904.07425)
 * [Relational Reasoning for Markov Chains in a Probabilistic Guarded Lambda Calculus](https://arxiv.org/abs/1802.09787)
-* [String Diagrams with Factorized Densities](https://arxiv.org/abs/2305.02506)
 
 ---
 
