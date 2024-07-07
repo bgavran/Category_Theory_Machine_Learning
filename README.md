@@ -41,6 +41,7 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [Stochastic Neural Network Symmetrisation in Markov Categories](https://arxiv.org/abs/2406.11814)
 * [Going Beyond Neural Network Feature Similarity: The Network Feature Complexity and Its Interpretation Using Category Theory](https://arxiv.org/abs/2310.06756)
 * [Attending to Topological Spaces: The Cellular Transformer](https://arxiv.org/abs/2405.14094)
+* [On the Anatomy of Attention](https://arxiv.org/abs/2407.02423)
 
 #### Graph Neural Networks
 * [Graph Neural Networks are Dynamic Programmers](https://arxiv.org/abs/2203.15544)
