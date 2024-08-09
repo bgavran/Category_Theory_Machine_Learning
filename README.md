@@ -42,7 +42,7 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [On the Anatomy of Attention](https://arxiv.org/abs/2407.02423)
 
 
-### Equivariance
+#### Equivariance
 * [Equivariant neural networks and piecewise linear representation theory](https://arxiv.org/abs/2408.00949)
 * [Local Permutation Equivariance For Graph Neural Networks](https://arxiv.org/abs/2111.11840)
 * [Stochastic Neural Network Symmetrisation in Markov Categories](https://arxiv.org/abs/2406.11814)
