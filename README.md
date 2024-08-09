@@ -49,6 +49,7 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [Metric Learning for Clifford Group Equivariant Neural Networks](https://arxiv.org/abs/2407.09926)
 * [Categorification of Group Equivariant Neural Networks](https://arxiv.org/abs/2304.14144)
 * [Equivariant Single View Pose Prediction Via Induced and Restricted Representations](https://arxiv.org/abs/2307.03704)
+* [Characterizing the invariances of learning algorithms using category theory](https://arxiv.org/abs/1905.02072)
 
 #### Graph Neural Networks
 * [Graph Neural Networks are Dynamic Programmers](https://arxiv.org/abs/2203.15544)
@@ -159,7 +160,6 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [From Open Learners to Open Games](https://arxiv.org/abs/1902.08666)
 * [Learners Languages](https://arxiv.org/abs/2103.01189)
 * [A Constructive, Type-Theoretic Approach to Regression via Global Optimisation](https://arxiv.org/abs/2006.12868)
-* [Characterizing the invariances of learning algorithms using category theory](https://arxiv.org/abs/1905.02072)
 * [Functorial Manifold Learning](https://arxiv.org/abs/2011.07435)
 * [Diegetic representation of feedback in open games](https://arxiv.org/abs/2206.12338)
 * [Assessing the Unitary RNN as an End-to-End Compositional Model of Syntax](https://arxiv.org/abs/2208.05719)
