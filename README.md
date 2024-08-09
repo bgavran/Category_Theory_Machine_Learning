@@ -22,7 +22,7 @@ Feel free to contribute to this list - preferably by creating a pull request.
   
 ---
 
-### Deep Learning
+### General Deep Learning
 * [Categorical Foundations of Gradient-Based Learning](https://arxiv.org/abs/2103.01931)
 * [Position: Categorical Deep Learning is an Algebraic Theory of All Architectures](https://arxiv.org/abs/2402.15332)
 * [Position: Topological Deep Learning is the New Frontier for Relational Learning](https://arxiv.org/abs/2402.08871)
@@ -37,17 +37,22 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [Categories of Differentiable Polynomial Circuits for Machine Learning](https://arxiv.org/abs/2203.06430)
 * [The Topos of Transformer Networks](https://arxiv.org/abs/2403.18415)
 * [Learners are almost Free Compact Closed](https://oxford24.github.io/assets/act-papers/39_learners_are_almost_free_compa.pdf)
-* [Equivariant stochastic neural networks in Markov categories](https://oxford24.github.io/assets/act-papers/52_equivariant_stochastic_neural_.pdf)
-* [Stochastic Neural Network Symmetrisation in Markov Categories](https://arxiv.org/abs/2406.11814)
 * [Going Beyond Neural Network Feature Similarity: The Network Feature Complexity and Its Interpretation Using Category Theory](https://arxiv.org/abs/2310.06756)
 * [Attending to Topological Spaces: The Cellular Transformer](https://arxiv.org/abs/2405.14094)
 * [On the Anatomy of Attention](https://arxiv.org/abs/2407.02423)
+
+
+### Equivariance
+* [Equivariant neural networks and piecewise linear representation theory](https://arxiv.org/abs/2408.00949)
+* [Local Permutation Equivariance For Graph Neural Networks](https://arxiv.org/abs/2111.11840)
+* [Stochastic Neural Network Symmetrisation in Markov Categories](https://arxiv.org/abs/2406.11814)
 * [Metric Learning for Clifford Group Equivariant Neural Networks](https://arxiv.org/abs/2407.09926)
+* [Categorification of Group Equivariant Neural Networks](https://arxiv.org/abs/2304.14144)
+* [Equivariant Single View Pose Prediction Via Induced and Restricted Representations](https://arxiv.org/abs/2307.03704)
 
 #### Graph Neural Networks
 * [Graph Neural Networks are Dynamic Programmers](https://arxiv.org/abs/2203.15544)
 * [Natural Graph Networks](https://arxiv.org/abs/2007.08349)
-* [Local Permutation Equivariance For Graph Neural Networks](https://arxiv.org/abs/2111.11840)
 * [Sheaf Representation Learning](https://www.proquest.com/openview/5ab4860c57313d5f1a02fbe90a505a7f/1?pq-origsite=gscholar&cbl=18750&diss=y)
 * [Sheaf Neural Networks](https://arxiv.org/abs/2012.06333)
 * [Sheaf Neural Networks with Connection Laplacians](https://arxiv.org/abs/2206.08702)
@@ -71,8 +76,7 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [Denotationally Correct, Purely Functional, Efficient Reverse-mode Automatic Differentiation](https://arxiv.org/abs/2212.09801)
 * [Higher Order Automatic Differentiation of Higher Order Functions](https://arxiv.org/abs/2101.06757)
 * [Space-time tradeoffs of lenses and optics via higher category theory](https://arxiv.org/abs/2209.09351)
-* [Using Rewrite Strategies for Efficient Functional Automatic
-Differentiation](https://arxiv.org/abs/2307.02447)
+* [Using Rewrite Strategies for Efficient Functional Automatic Differentiation](https://arxiv.org/abs/2307.02447)
 
 ---
 
@@ -161,8 +165,6 @@ Differentiation](https://arxiv.org/abs/2307.02447)
 * [Assessing the Unitary RNN as an End-to-End Compositional Model of Syntax](https://arxiv.org/abs/2208.05719)
 * [Classifying Clustering Schemes](https://arxiv.org/abs/1011.5270)
 * [Categorical Hopfield Networks](https://arxiv.org/abs/2201.02756)
-* [Categorification of Group Equivariant Neural Networks](https://arxiv.org/abs/2304.14144)
-* [Equivariant Single View Pose Prediction Via Induced and Restricted Representations](https://arxiv.org/abs/2307.03704)
 * [A Category-theoretical Meta-analysis of Definitions of Disentanglement](https://arxiv.org/abs/2305.06886)
 * [Isomorphism, Normalizing Flows, and Density Estimation: Preserving Relationships Between Data](https://www.cs.uoregon.edu/Reports/AREA-202307-Walton.pdf)
 * [Transport of Algebraic Structure to Latent Embeddings](https://brendon-anderson.github.io/files/publications/pfrommer2024transport.pdf)
