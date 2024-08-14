@@ -40,6 +40,7 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [Going Beyond Neural Network Feature Similarity: The Network Feature Complexity and Its Interpretation Using Category Theory](https://arxiv.org/abs/2310.06756)
 * [Attending to Topological Spaces: The Cellular Transformer](https://arxiv.org/abs/2405.14094)
 * [On the Anatomy of Attention](https://arxiv.org/abs/2407.02423)
+* [Algebraic Dynamical Systems in Machine Learning](https://arxiv.org/abs/2311.03118)
 
 
 #### Equivariance
