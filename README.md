@@ -155,6 +155,12 @@ Feel free to contribute to this list - preferably by creating a pull request.
 
 ---
 
+### Neuro-symbolic AI
+
+* [Lattice-preserving ALC ontology embeddings](https://arxiv.org/abs/2305.07163)
+
+---
+
 ### Misc
 * [Generalized Convolution and Efficient Language Recognition](https://arxiv.org/abs/1903.10677)
 * [General supervised learning as change propagation with delta lenses](https://arxiv.org/abs/1911.12904)
