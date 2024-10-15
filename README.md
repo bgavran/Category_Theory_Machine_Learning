@@ -19,6 +19,7 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [Robust Diagrams for Deep Learning Architectures: Applications and Theory](https://www.vtabbott.io/content/files/2023/11/Robust-Diagrams-for-Deep-Learning-Architectures.pdf)
 * [Category-Theoretic Datastructures and Algorithms for Learning Polynomial Circuits](https://eprints.soton.ac.uk/483757/1/paul_wilson_thesis_acrobat_fixup.pdf)
 * [Category Theory for Quantum Natural Language Processing](https://arxiv.org/abs/2212.06615)
+* [Towards a Categorical Foundation of Deep Learning: A Survey](https://arxiv.org/abs/2410.05353)
   
 ---
 
