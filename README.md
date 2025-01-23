@@ -42,6 +42,8 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [Attending to Topological Spaces: The Cellular Transformer](https://arxiv.org/abs/2405.14094)
 * [On the Anatomy of Attention](https://arxiv.org/abs/2407.02423)
 * [Algebraic Dynamical Systems in Machine Learning](https://arxiv.org/abs/2311.03118)
+* [Can neural operators always be continuously discretized?](https://arxiv.org/abs/2412.03393)
+* [Order Theory in the Context of Machine Learning: an application](https://arxiv.org/abs/2412.06097)
 
 
 #### Equivariance
@@ -66,6 +68,7 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [Sheaf Neural Networks for Graph-based Recommender Systems](https://arxiv.org/abs/2304.09097)
 * [Asynchronous Algorithmic Alignment with Cocycles](https://arxiv.org/abs/2306.15632)
 * [Topologically Attributed Graphs for Shape Discrimination](https://arxiv.org/abs/2306.17805)
+* [Grothendieck Graph Neural Networks Framework: An Algebraic Platform for Crafting Topology-Aware GNNs](https://arxiv.org/abs/2412.08835)
 
 ---
 
@@ -170,3 +173,4 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [A Category-theoretical Meta-analysis of Definitions of Disentanglement](https://arxiv.org/abs/2305.06886)
 * [Isomorphism, Normalizing Flows, and Density Estimation: Preserving Relationships Between Data](https://www.cs.uoregon.edu/Reports/AREA-202307-Walton.pdf)
 * [Transport of Algebraic Structure to Latent Embeddings](https://brendon-anderson.github.io/files/publications/pfrommer2024transport.pdf)
+* [Data for Mathematical Copilots: Better Ways of Presenting Proofs for Machine Learning](https://arxiv.org/abs/2412.15184)
