@@ -44,6 +44,7 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [Algebraic Dynamical Systems in Machine Learning](https://arxiv.org/abs/2311.03118)
 * [Can neural operators always be continuously discretized?](https://arxiv.org/abs/2412.03393)
 * [Order Theory in the Context of Machine Learning: an application](https://arxiv.org/abs/2412.06097)
+* [An Invitation to Neuroalgebraic Geometry](https://arxiv.org/abs/2501.18915)
 
 
 #### Equivariance
