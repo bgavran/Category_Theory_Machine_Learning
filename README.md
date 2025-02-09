@@ -45,6 +45,8 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [Can neural operators always be continuously discretized?](https://arxiv.org/abs/2412.03393)
 * [Order Theory in the Context of Machine Learning: an application](https://arxiv.org/abs/2412.06097)
 * [An Invitation to Neuroalgebraic Geometry](https://arxiv.org/abs/2501.18915)
+* [Algebraic Positional Encodings](https://arxiv.org/abs/2312.16045)
+* [Learning Structure-Aware Representations of Dependent Types](https://arxiv.org/abs/2402.02104)
 
 
 #### Equivariance
@@ -103,6 +105,7 @@ Feel free to contribute to this list - preferably by creating a pull request.
 * [Computable Stochastic Processes](https://arxiv.org/abs/1409.4667)
 * [Compositional Semantics for Probabilistic Programs with Exact Conditioning](https://arxiv.org/abs/2101.11351)
 * [String Diagrams with Factorized Densities](https://arxiv.org/abs/2305.02506)
+* [Partial Markov Categories](https://arxiv.org/abs/2502.03477)
 
 ---
 

@@ -15,7 +15,7 @@ data = np.array([2000 + int(year) + int(month) / 12 for year, month in data_stri
 
 plt.rcParams["figure.figsize"] = (8,4.8)
 plt.hist(data, 168, cumulative="True")
-plt.xticks(range(2010, 2024, 2))
+plt.xticks(range(2010, 2025, 2))
 plt.title("CT ∩ ML: Cumulative number of papers through time")
 plt.xlabel("Year")
 plt.ylabel("Total number of papers")
