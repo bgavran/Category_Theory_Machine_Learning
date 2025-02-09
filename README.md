@@ -1,14 +1,12 @@
 # Category Theory ∩ Machine Learning
 
-Category theory has been finding increasing applications in machine learning.
-This repository aims to list all of the relevant papers, grouped by fields.
+Category theory has been finding increasing applications in machine learning. This repository aims to list all of the relevant papers, grouped by fields.
 
 For an introduction to the ideas behind category theory, check out [this link](https://github.com/bgavran/Category_Theory_Resources).
 
 <p align="center"><img width="100%" src="ct_intersection_ml.png" /></p>
 
-There might be papers missing, and some papers are in multiple fields.
-Feel free to contribute to this list - preferably by creating a pull request.
+There might be papers missing, and some papers are in multiple fields. Feel free to contribute to this list - preferably by creating a pull request.
 
 ### Survey papers
 * [Category Theory in Machine Learning](https://arxiv.org/abs/2106.07032)
