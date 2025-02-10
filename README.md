@@ -176,3 +176,4 @@ There might be papers missing, and some papers are in multiple fields. Feel free
 * [Isomorphism, Normalizing Flows, and Density Estimation: Preserving Relationships Between Data](https://www.cs.uoregon.edu/Reports/AREA-202307-Walton.pdf)
 * [Transport of Algebraic Structure to Latent Embeddings](https://brendon-anderson.github.io/files/publications/pfrommer2024transport.pdf)
 * [Data for Mathematical Copilots: Better Ways of Presenting Proofs for Machine Learning](https://arxiv.org/abs/2412.15184)
+* [Categorical Diffusion of Weighted Lattices](https://arxiv.org/abs/2501.03890)
