@@ -34,7 +34,6 @@ There might be papers missing, and some papers are in multiple fields. Feel free
 * [Deep neural networks as nested dynamical systems](https://arxiv.org/abs/2111.01297)
 * [Neural network layers as parametric spans](https://arxiv.org/abs/2208.00809)
 * [Categories of Differentiable Polynomial Circuits for Machine Learning](https://arxiv.org/abs/2203.06430)
-* [The Topos of Transformer Networks](https://arxiv.org/abs/2403.18415)
 * [Learners are almost Free Compact Closed](https://oxford24.github.io/assets/act-papers/39_learners_are_almost_free_compa.pdf)
 * [Going Beyond Neural Network Feature Similarity: The Network Feature Complexity and Its Interpretation Using Category Theory](https://arxiv.org/abs/2310.06756)
 * [Attending to Topological Spaces: The Cellular Transformer](https://arxiv.org/abs/2405.14094)
