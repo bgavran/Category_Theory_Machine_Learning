@@ -142,6 +142,7 @@ There might be papers missing, and some papers are in multiple fields. Feel free
 * [The magnitude vector of images](https://arxiv.org/abs/2110.15188)
 * [Magnitude of arithmetic scalar and matrix categories](https://arxiv.org/abs/2304.08334)
 * [Metric Space Magnitude for Evaluating Unsupervised Representation Learning](https://arxiv.org/abs/2311.16054)
+* [The Magnitude of Categories of Texts Enriched by Language Models](https://arxiv.org/abs/2501.06662)
 
 ---
 
