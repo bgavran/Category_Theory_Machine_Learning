@@ -66,6 +66,7 @@ There might be papers missing, and some papers are in multiple fields. Feel free
 * [Graph Convolutional Neural Networks as Parametric CoKleisli morphisms](https://arxiv.org/abs/2212.00542)
 * [Learnable Commutative Monoids for Graph Neural Networks](https://arxiv.org/abs/2212.08541)
 * [Sheaf Neural Networks for Graph-based Recommender Systems](https://arxiv.org/abs/2304.09097)
+* [Sheaf theory: from deep geometry to deep learning](https://arxiv.org/abs/2502.15476)
 * [Asynchronous Algorithmic Alignment with Cocycles](https://arxiv.org/abs/2306.15632)
 * [Topologically Attributed Graphs for Shape Discrimination](https://arxiv.org/abs/2306.17805)
 * [Grothendieck Graph Neural Networks Framework: An Algebraic Platform for Crafting Topology-Aware GNNs](https://arxiv.org/abs/2412.08835)
