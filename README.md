@@ -159,6 +159,7 @@ There might be papers missing, and some papers are in multiple fields. Feel free
 ### Automata Learning
 * [Automata Learning: A Categorical Perspective](http://www.calf-project.org/publications/prakash.pdf)
 * [A Categorical Framework for Learning Generalised Tree Automata](https://arxiv.org/abs/2001.05786)
+* [CALF: Categorical Automata Learning Framework (thesis)](https://discovery.ucl.ac.uk/id/eprint/10110356/1/thesis_final_ucl.pdf)
 
 ---
 
