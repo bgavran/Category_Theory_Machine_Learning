@@ -104,6 +104,7 @@ There might be papers missing, and some papers are in multiple fields. Feel free
 * [Compositional Semantics for Probabilistic Programs with Exact Conditioning](https://arxiv.org/abs/2101.11351)
 * [String Diagrams with Factorized Densities](https://arxiv.org/abs/2305.02506)
 * [Partial Markov Categories](https://arxiv.org/abs/2502.03477)
+* [Random Variables, Conditional Independence and Categories of Abstract Sample Spaces](https://arxiv.org/abs/2503.02477)
 
 ---
 
@@ -126,6 +127,7 @@ There might be papers missing, and some papers are in multiple fields. Feel free
 * [Denotational validation of higher-order Bayesian inference](https://arxiv.org/abs/1711.03219)
 * [The Geometry of Bayesian Programming](https://arxiv.org/abs/1904.07425)
 * [Relational Reasoning for Markov Chains in a Probabilistic Guarded Lambda Calculus](https://arxiv.org/abs/1802.09787)
+* [A Bayesian Interpretation of the Internal Model Principle](https://arxiv.org/abs/2503.00511)
 
 ---
 
