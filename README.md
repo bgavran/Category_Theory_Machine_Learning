@@ -54,6 +54,7 @@ There might be papers missing, and some papers are in multiple fields. Feel free
 * [Categorification of Group Equivariant Neural Networks](https://arxiv.org/abs/2304.14144)
 * [Equivariant Single View Pose Prediction Via Induced and Restricted Representations](https://arxiv.org/abs/2307.03704)
 * [Characterizing the invariances of learning algorithms using category theory](https://arxiv.org/abs/1905.02072)
+* [Mathematical Foundation of Interpretable Equivariant Surrogate Models](https://arxiv.org/abs/2503.01942)
 
 #### Graph Neural Networks
 * [Graph Neural Networks are Dynamic Programmers](https://arxiv.org/abs/2203.15544)
@@ -128,6 +129,7 @@ There might be papers missing, and some papers are in multiple fields. Feel free
 * [The Geometry of Bayesian Programming](https://arxiv.org/abs/1904.07425)
 * [Relational Reasoning for Markov Chains in a Probabilistic Guarded Lambda Calculus](https://arxiv.org/abs/1802.09787)
 * [A Bayesian Interpretation of the Internal Model Principle](https://arxiv.org/abs/2503.00511)
+* [On the Functoriality of Belief Propagation Algorithms on Finite Partially Ordered Sets](https://hal.sorbonne-universite.fr/hal-04995548/document)
 
 ---
 
@@ -181,3 +183,5 @@ There might be papers missing, and some papers are in multiple fields. Feel free
 * [Transport of Algebraic Structure to Latent Embeddings](https://brendon-anderson.github.io/files/publications/pfrommer2024transport.pdf)
 * [Data for Mathematical Copilots: Better Ways of Presenting Proofs for Machine Learning](https://arxiv.org/abs/2412.15184)
 * [Categorical Diffusion of Weighted Lattices](https://arxiv.org/abs/2501.03890)
+* [Aggregating time-series and image data: functors and double functors](https://arxiv.org/abs/2504.05274)
+* [Logic Explanation of AI Classifiers by Categorical Explaining Functors](https://arxiv.org/abs/2503.16203)
