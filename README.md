@@ -56,6 +56,8 @@ There might be papers missing, and some papers are in multiple fields. Feel free
 * [Equivariant Single View Pose Prediction Via Induced and Restricted Representations](https://arxiv.org/abs/2307.03704)
 * [Characterizing the invariances of learning algorithms using category theory](https://arxiv.org/abs/1905.02072)
 * [Mathematical Foundation of Interpretable Equivariant Surrogate Models](https://arxiv.org/abs/2503.01942)
+* [Filter Equivariant Functions: A symmetric account of length-general extrapolation on lists](https://arxiv.org/abs/2507.08796)
+* [Relational inductive biases on attention mechanisms](https://arxiv.org/abs/2507.04117)
 
 #### Graph Neural Networks
 * [Graph Neural Networks are Dynamic Programmers](https://arxiv.org/abs/2203.15544)
@@ -72,6 +74,7 @@ There might be papers missing, and some papers are in multiple fields. Feel free
 * [Asynchronous Algorithmic Alignment with Cocycles](https://arxiv.org/abs/2306.15632)
 * [Topologically Attributed Graphs for Shape Discrimination](https://arxiv.org/abs/2306.17805)
 * [Grothendieck Graph Neural Networks Framework: An Algebraic Platform for Crafting Topology-Aware GNNs](https://arxiv.org/abs/2412.08835)
+* [Don't be Afraid of Cell Complexes! An Introduction from an Applied Perspective](https://arxiv.org/abs/2506.09726)
 
 ---
 
@@ -186,3 +189,6 @@ There might be papers missing, and some papers are in multiple fields. Feel free
 * [Categorical Diffusion of Weighted Lattices](https://arxiv.org/abs/2501.03890)
 * [Aggregating time-series and image data: functors and double functors](https://arxiv.org/abs/2504.05274)
 * [Logic Explanation of AI Classifiers by Categorical Explaining Functors](https://arxiv.org/abs/2503.16203)
+* [Typing tensor calculus in 2-categories](https://arxiv.org/abs/1908.01212v4)
+* [The Joys of Categorical Conformal Prediction](https://arxiv.org/abs/2507.04441)
+* [The Gauss-Markov Adjunction: Categorical Semantics of Residuals in Supervised Learning](https://arxiv.org/abs/2507.02442)
