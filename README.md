@@ -8,9 +8,6 @@ For an introduction to the ideas behind category theory, check out [this link](h
 
 There might be papers missing, and some papers are in multiple fields. Feel free to contribute to this list - preferably by creating a pull request.
 
-### Survey papers
-* [Category Theory in Machine Learning](https://arxiv.org/abs/2106.07032)
-
 ### Theses
 
 * [Fundamental Components of Deep Learning: A category-theoretic approach](https://arxiv.org/abs/2403.13001)
@@ -32,6 +29,7 @@ There might be papers missing, and some papers are in multiple fields. Feel free
 * [Learning Functors using Gradient Descent](http://www.cs.ox.ac.uk/ACT2019/preproceedings/Bruno%20Gavranovic.pdf) (longer version [here](https://arxiv.org/abs/1907.08292))
 * [Compositionality for Recursive Neural Networks](https://arxiv.org/abs/1901.10723)
 * [Deep neural networks as nested dynamical systems](https://arxiv.org/abs/2111.01297)
+* [Category Theory in Machine Learning](https://arxiv.org/abs/2106.07032)
 * [Neural network layers as parametric spans](https://arxiv.org/abs/2208.00809)
 * [Categories of Differentiable Polynomial Circuits for Machine Learning](https://arxiv.org/abs/2203.06430)
 * [Learners are almost Free Compact Closed](https://oxford24.github.io/assets/act-papers/39_learners_are_almost_free_compa.pdf)
