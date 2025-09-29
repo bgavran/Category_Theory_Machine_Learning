@@ -157,6 +157,7 @@ There might be papers missing, and some papers are in multiple fields. Feel free
 
 ### Blog posts
 * [Neural Networks, Types, and Functional Programming](https://colah.github.io/posts/2015-09-NN-Types-FP/)
+* [Generalized Transformers from Applicative Functors](https://glaive-research.org/2025/02/11/Generalized-Transformers-from-Applicative-Functors.html)
 * [Towards Categorical Foundations of Learning](https://www.brunogavranovic.com/posts/2021-03-03-Towards-Categorical-Foundations-Of-Neural-Networks.html)
 * [Graph Convolutional Neural Networks as Parametric CoKleisli morphisms](https://www.brunogavranovic.com/posts/2022-12-05-graph_neural_networks_as_parametric_cokleisli_morphisms.html)
 * [Optics vs Lenses, Operationally](https://www.brunogavranovic.com/posts/2022-02-10-optics-vs-lenses-operationally.html)
