@@ -75,6 +75,7 @@ There might be papers missing, and some papers are in multiple fields. Feel free
 * [Grothendieck Graph Neural Networks Framework: An Algebraic Platform for Crafting Topology-Aware GNNs](https://arxiv.org/abs/2412.08835)
 * [Don't be Afraid of Cell Complexes! An Introduction from an Applied Perspective](https://arxiv.org/abs/2506.09726)
 * [Graph Lineages and Skeletal Graph Products](https://arxiv.org/abs/2508.00197)
+* [On the Sheafification of Higher-Order Message Passing](https://arxiv.org/abs/2509.23020)
 
 ---
 
