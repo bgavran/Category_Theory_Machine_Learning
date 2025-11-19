@@ -6,7 +6,7 @@ For an introduction to the ideas behind category theory, check out [this link](h
 
 <p align="center"><img width="100%" src="ct_intersection_ml.png" /></p>
 
-There might be papers missing, and some papers are in multiple fields. Feel free to contribute to this list - preferably by creating a pull request.
+There might be papers missing, and some papers are in multiple fields. Feel free to contribute to this list or suggest changes to it by creating a pull request or opening an issue.
 
 ### Theses
 
@@ -44,6 +44,7 @@ There might be papers missing, and some papers are in multiple fields. Feel free
 * [Learning Structure-Aware Representations of Dependent Types](https://arxiv.org/abs/2402.02104)
 * [Accelerating Machine Learning Systems via Category Theory: Applications to Spherical Attention for Gene Regulatory Networks](https://arxiv.org/abs/2505.09326)
 * [Copresheaf Topological Neural Networks: A Generalized Deep Learning Framework](https://arxiv.org/abs/2505.21251)
+* [Categorical Invariants of Learning Dynamics](https://arxiv.org/abs/2510.04376)
 
 
 #### Equivariance
@@ -194,3 +195,4 @@ There might be papers missing, and some papers are in multiple fields. Feel free
 * [Typing tensor calculus in 2-categories](https://arxiv.org/abs/1908.01212v4)
 * [The Joys of Categorical Conformal Prediction](https://arxiv.org/abs/2507.04441)
 * [The Gauss-Markov Adjunction: Categorical Semantics of Residuals in Supervised Learning](https://arxiv.org/abs/2507.02442)
+* [Modeling Layout Abstractions Using Integer Set Relations](https://arxiv.org/abs/2511.10374)
