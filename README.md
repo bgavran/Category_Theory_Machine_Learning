@@ -81,10 +81,14 @@ There might be papers missing, and some papers are in multiple fields. Feel free
 ---
 
 ### Differentiable programming / automatic differentiation
+* [CHAD: Combinatory Homomorphic Automatic Differentiation](https://arxiv.org/abs/2103.15776)
+* [CHAD for Expressive Total Languages](https://arxiv.org/abs/2110.00446)
+* [The Differentiable Curry](https://dimitriv.github.io/papers/hoad-workshop.pdf)
 * [Functorial String Diagrams for Reverse-Mode Automatic Differentiation](https://arxiv.org/abs/2107.13433)
 * [Differentiable Causal Computations via Delayed Trace](https://arxiv.org/abs/1903.01093)
 * [Simple Essence of Automatic Differentiation](https://arxiv.org/abs/1804.00746)
 * [Reverse Derivative Categories](https://arxiv.org/abs/1910.07065)
+* [Reverse Faà di Bruno's Formula for Cartesian Reverse Differential Categories](https://arxiv.org/abs/2509.20931)
 * [Towards formalizing and extending differential programming using tangent categories](http://www.cs.ox.ac.uk/ACT2019/preproceedings/Jonathan%20Gallagher,%20Geoff%20Cruttwell%20and%20Ben%20MacAdam.pdf)
 * [Correctness of Automatic Differentiation via Diffeologies and Categorical Gluing](https://arxiv.org/abs/2001.02209)
 * [Denotationally Correct, Purely Functional, Efficient Reverse-mode Automatic Differentiation](https://arxiv.org/abs/2212.09801)
