@@ -121,6 +121,7 @@ There might be papers missing, and some papers are in multiple fields. Feel free
 
 ### Bayesian/Causal inference
 * [The Compositional Structure of Bayesian Inference](https://arxiv.org/abs/2305.06112)
+* [Compositional Inference for Bayesian Networks and Causality](https://arxiv.org/abs/2512.00209)
 * [Dependent Bayesian Lenses: Categories of Bidirectional Markov Kernels with Canonical Bayesian Inversion](https://arxiv.org/abs/2209.14728)
 * [A category theory framework for Bayesian Learning](https://arxiv.org/abs/2111.14293)
 * [Causal Theories: A Categorical Perspective on Bayesian Networks](https://arxiv.org/abs/1301.6201)
