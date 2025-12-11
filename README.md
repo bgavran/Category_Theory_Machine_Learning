@@ -141,6 +141,7 @@ There might be papers missing, and some papers are in multiple fields. Feel free
 * [Relational Reasoning for Markov Chains in a Probabilistic Guarded Lambda Calculus](https://arxiv.org/abs/1802.09787)
 * [A Bayesian Interpretation of the Internal Model Principle](https://arxiv.org/abs/2503.00511)
 * [On the Functoriality of Belief Propagation Algorithms on Finite Partially Ordered Sets](https://hal.sorbonne-universite.fr/hal-04995548/document)
+* [Bayesian Networks, Markov Networks, Moralisation, Triangulation: a Categorical Perspective](https://arxiv.org/abs/2512.09908)
 
 ---
 
