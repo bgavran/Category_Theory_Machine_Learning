@@ -78,6 +78,9 @@ There might be papers missing, and some papers are in multiple fields. Feel free
 * [Don't be Afraid of Cell Complexes! An Introduction from an Applied Perspective](https://arxiv.org/abs/2506.09726)
 * [Graph Lineages and Skeletal Graph Products](https://arxiv.org/abs/2508.00197)
 * [On the Sheafification of Higher-Order Message Passing](https://arxiv.org/abs/2509.23020)
+* [
+Disentangling Hyperedges through the Lens of Category Theory
+](https://arxiv.org/abs/2510.16289)
 
 ---
 
