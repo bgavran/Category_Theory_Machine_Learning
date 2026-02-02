@@ -58,6 +58,7 @@ There might be papers missing, and some papers are in multiple fields. Feel free
 * [Mathematical Foundation of Interpretable Equivariant Surrogate Models](https://arxiv.org/abs/2503.01942)
 * [Filter Equivariant Functions: A symmetric account of length-general extrapolation on lists](https://arxiv.org/abs/2507.08796)
 * [Relational inductive biases on attention mechanisms](https://arxiv.org/abs/2507.04117)
+* [Identifiable Equivariant Networks are Layerwise Equivariant](https://arxiv.org/abs/2601.21645)
 
 #### Graph Neural Networks
 * [Graph Neural Networks are Dynamic Programmers](https://arxiv.org/abs/2203.15544)
@@ -116,6 +117,7 @@ There might be papers missing, and some papers are in multiple fields. Feel free
 * [String Diagrams with Factorized Densities](https://arxiv.org/abs/2305.02506)
 * [Partial Markov Categories](https://arxiv.org/abs/2502.03477)
 * [Random Variables, Conditional Independence and Categories of Abstract Sample Spaces](https://arxiv.org/abs/2503.02477)
+* [A categorical account of the Metropolis-Hastings algorithm](https://arxiv.org/abs/2601.22911)
 
 ---
 
