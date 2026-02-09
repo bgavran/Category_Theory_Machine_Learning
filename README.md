@@ -78,9 +78,9 @@ There might be papers missing, and some papers are in multiple fields. Feel free
 * [Don't be Afraid of Cell Complexes! An Introduction from an Applied Perspective](https://arxiv.org/abs/2506.09726)
 * [Graph Lineages and Skeletal Graph Products](https://arxiv.org/abs/2508.00197)
 * [On the Sheafification of Higher-Order Message Passing](https://arxiv.org/abs/2509.23020)
-* [
-Disentangling Hyperedges through the Lens of Category Theory
-](https://arxiv.org/abs/2510.16289)
+* [Disentangling Hyperedges through the Lens of Category Theory](https://arxiv.org/abs/2510.16289)
+* [Weisfeiler and Lehman Go Categorical](https://arxiv.org/abs/2602.06787)
+* [Modeling Topological Impact on Node Attribute Distributions in Attributed Graphs](https://arxiv.org/abs/2602.01454)
 
 ---
 
