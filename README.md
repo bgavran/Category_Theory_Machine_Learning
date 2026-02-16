@@ -45,6 +45,7 @@ There might be papers missing, and some papers are in multiple fields. Feel free
 * [Accelerating Machine Learning Systems via Category Theory: Applications to Spherical Attention for Gene Regulatory Networks](https://arxiv.org/abs/2505.09326)
 * [Copresheaf Topological Neural Networks: A Generalized Deep Learning Framework](https://arxiv.org/abs/2505.21251)
 * [Categorical Invariants of Learning Dynamics](https://arxiv.org/abs/2510.04376)
+* [Product Interaction: An Algebraic Formalism for Deep Learning Architectures](https://arxiv.org/abs/2602.02573)
 
 
 #### Equivariance
