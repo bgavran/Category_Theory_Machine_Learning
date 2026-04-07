@@ -21,6 +21,7 @@ There might be papers missing, and some papers are in multiple fields. Feel free
 ### General Deep Learning
 * [Categorical Foundations of Gradient-Based Learning](https://arxiv.org/abs/2103.01931)
 * [Position: Categorical Deep Learning is an Algebraic Theory of All Architectures](https://arxiv.org/abs/2402.15332)
+* [Coalgebras for categorical deep learning: Representability and universal approximation](https://arxiv.org/abs/2603.03227)
 * [Position: Topological Deep Learning is the New Frontier for Relational Learning](https://arxiv.org/abs/2402.08871)
 * [Backprop as Functor](https://arxiv.org/abs/1711.10455)
 * [Lenses and Learners](https://arxiv.org/abs/1903.03671)
@@ -100,6 +101,11 @@ There might be papers missing, and some papers are in multiple fields. Feel free
 * [Higher Order Automatic Differentiation of Higher Order Functions](https://arxiv.org/abs/2101.06757)
 * [Space-time tradeoffs of lenses and optics via higher category theory](https://arxiv.org/abs/2209.09351)
 * [Using Rewrite Strategies for Efficient Functional Automatic Differentiation](https://arxiv.org/abs/2307.02447)
+
+### CuTe Layouts
+
+* [CuTe Layout Representation and Algebra](https://arxiv.org/abs/2603.02298v1)
+* [Categorical Foundations for CuTe Layouts](https://arxiv.org/abs/2601.05972)
 
 ---
 
