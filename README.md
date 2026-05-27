@@ -62,6 +62,7 @@ There might be papers missing, and some papers are in multiple fields. Feel free
 * [Filter Equivariant Functions: A symmetric account of length-general extrapolation on lists](https://arxiv.org/abs/2507.08796)
 * [Relational inductive biases on attention mechanisms](https://arxiv.org/abs/2507.04117)
 * [Identifiable Equivariant Networks are Layerwise Equivariant](https://arxiv.org/abs/2601.21645)
+* [Gaussian Sheaf Neural Networks](https://arxiv.org/abs/2605.21435)
 
 #### Graph Neural Networks
 * [Graph Neural Networks are Dynamic Programmers](https://arxiv.org/abs/2203.15544)
