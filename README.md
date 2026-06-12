@@ -48,6 +48,8 @@ There might be papers missing, and some papers are in multiple fields. Feel free
 * [Categorical Invariants of Learning Dynamics](https://arxiv.org/abs/2510.04376)
 * [Product Interaction: An Algebraic Formalism for Deep Learning Architectures](https://arxiv.org/abs/2602.02573)
 * [Presenting Neural Networks via Coherent Functors](https://arxiv.org/abs/2604.15100)
+* [Operads for compositional reasoning in LLMs](https://arxiv.org/abs/2606.13634)
+* [Learning Transfers: Kan Extensions for Neural Invariants](https://arxiv.org/abs/2606.07627)
 
 
 #### Equivariance
