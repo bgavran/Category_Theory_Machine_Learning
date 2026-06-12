@@ -65,6 +65,7 @@ There might be papers missing, and some papers are in multiple fields. Feel free
 * [Relational inductive biases on attention mechanisms](https://arxiv.org/abs/2507.04117)
 * [Identifiable Equivariant Networks are Layerwise Equivariant](https://arxiv.org/abs/2601.21645)
 * [Gaussian Sheaf Neural Networks](https://arxiv.org/abs/2605.21435)
+* [Theoretical Aspects of Lie Groupoid and Lie Algebroid Equivariant Convolutional Neural Networks](https://arxiv.org/abs/2606.02758)
 
 #### Graph Neural Networks
 * [Graph Neural Networks are Dynamic Programmers](https://arxiv.org/abs/2203.15544)
