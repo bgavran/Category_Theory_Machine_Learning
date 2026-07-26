@@ -219,3 +219,4 @@ There might be papers missing, and some papers are in multiple fields. Feel free
 * [The Joys of Categorical Conformal Prediction](https://arxiv.org/abs/2507.04441)
 * [The Gauss-Markov Adjunction: Categorical Semantics of Residuals in Supervised Learning](https://arxiv.org/abs/2507.02442)
 * [Modeling Layout Abstractions Using Integer Set Relations](https://arxiv.org/abs/2511.10374)
+* [Adequate Losses via Quantitative Linear Logic](https://arxiv.org/abs/2605.13348)
