@@ -15,9 +15,6 @@ There might be papers missing, and some papers are in multiple fields. Feel free
 * [Category-Theoretic Datastructures and Algorithms for Learning Polynomial Circuits](https://eprints.soton.ac.uk/483757/1/paul_wilson_thesis_acrobat_fixup.pdf)
 * [Category Theory for Quantum Natural Language Processing](https://arxiv.org/abs/2212.06615)
 * [Towards a Categorical Foundation of Deep Learning: A Survey](https://arxiv.org/abs/2410.05353)
-* [Towards a Categorical Foundation of Deep Learning: A Survey](https://arxiv.org/abs/2410.05353)
-* [Towards a Categorical Foundation of Deep Learning: A Survey](https://arxiv.org/abs/2410.05353)
-* [Towards a Categorical Foundation of Deep Learning: A Survey](https://arxiv.org/abs/2410.05353)
   
 ---
 
