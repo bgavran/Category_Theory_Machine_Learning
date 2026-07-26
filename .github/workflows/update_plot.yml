@@ -32,7 +32,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add ct_intersection_ml_auto.png
+          git add ct_intersection_ml.png
           if ! git diff --cached --quiet; then
             git commit -m "Update paper plot [skip ci]"
             git push
