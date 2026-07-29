@@ -169,6 +169,13 @@ There might be papers missing, and some papers are in multiple fields. Feel free
 
 ---
 
+### Reinforcement Learning
+
+* [Value Iteration is Optic Composition](https://arxiv.org/abs/2206.04547)
+* [Compositional Behavioral Semantics for State Abstraction in Reinforcement Learning](https://arxiv.org/abs/2606.25357)
+* [Categorical semantics of compositional reinforcement learning](https://arxiv.org/abs/2208.13687)
+* [Reduce, Reuse, Recycle: Categories for Compositional Reinforcement Learning](https://arxiv.org/abs/2408.13376v3)
+
 ### Metric space magnitude
 * [Approximating the convex hull via metric space magnitude](https://arxiv.org/abs/1908.02692)
 * [Practical applications of metric space magnitude and weighting vectors](https://arxiv.org/abs/2006.14063)
