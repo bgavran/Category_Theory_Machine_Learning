@@ -88,6 +88,7 @@ There might be papers missing, and some papers are in multiple fields. Feel free
 * [Disentangling Hyperedges through the Lens of Category Theory](https://arxiv.org/abs/2510.16289)
 * [Weisfeiler and Lehman Go Categorical](https://arxiv.org/abs/2602.06787)
 * [Modeling Topological Impact on Node Attribute Distributions in Attributed Graphs](https://arxiv.org/abs/2602.01454)
+* [Let the Heads Talk: Beyond Diagonal Graph Attention](https://arxiv.org/abs/2610.01494)
 
 ---
 
